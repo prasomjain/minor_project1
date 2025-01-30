@@ -4,7 +4,7 @@ This project benchmarks object detection models on a Raspberry Pi using differen
 
 ## Project Information
 
-This project was created for the 5th Semester B. Tech Minor Project at the Department of Computer Science and Engineering,
+This project was created for the 5th Semester B. Tech Minor Project at the Department of Electronics and Communications Engineering,
 
 ## Files
 
